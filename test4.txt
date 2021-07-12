@@ -1,0 +1,13 @@
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 504 bytes | 504.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+remote: 
+remote: Create a pull request for 'test3' on GitHub by visiting:
+remote:      https://github.com/QuynhTam/demo12/pull/new/test3
+remote:
+To https://github.com/QuynhTam/demo12.git
+ * [new branch]      test3 -> test3
+Branch 'test3' set up to track remote branch 'test3' from 'origin'.
+PS C:\Users\QUYNHNN178\Desktop\demo12> 
