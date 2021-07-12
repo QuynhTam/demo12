@@ -1,0 +1,10 @@
+Switched to a new branch 'test2'
+PS C:\Users\QUYNHNN178\Desktop\demo12> git checkout -b test3
+Switched to a new branch 'test3'
+PS C:\Users\QUYNHNN178\Desktop\demo12> git checkout -b test 4
+fatal: '4' is not a commit and a branch 'test' cannot be created from it
+PS C:\Users\QUYNHNN178\Desktop\demo12> git checkout -b test4 
+Switched to a new branch 'test4'
+PS C:\Users\QUYNHNN178\Desktop\demo12> git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
